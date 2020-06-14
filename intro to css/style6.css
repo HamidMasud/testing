@@ -1,0 +1,71 @@
+body{
+
+	background-color: yellow;
+
+}
+
+body#idClassPage{
+
+
+  background-color: #fc3 !important;
+}
+h1{
+	font-size: 50px;
+	font-family: Arial;
+}
+
+h2{
+
+	font-size: 30px;
+	font-family: Times;
+}
+
+h3{
+
+	font-size: 20px;
+	font-family: Georgia;
+}
+   
+ #main-title{
+
+color: #fc3;
+background: #353535;
+padding: 20px;
+margin: 20px;
+font-size: 15;  
+
+  }
+
+.section-header{
+
+ color: #fc3;
+ background: olive;
+ border: 1px solid pink;
+ padding: 40px,20px,10px;
+ text-align: center;
+ font-weight: normal;
+
+}
+
+.primary-Box{
+   
+   background: white;
+   border: solid 10px  #333; 
+
+}
+
+.Secondary-Box{
+
+	background-color: green;
+	border:  solid 10px #333;
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
